@@ -12,6 +12,9 @@
     color: black;
 }
 .header.nav {
-    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
     
 }
