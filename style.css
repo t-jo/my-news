@@ -1,0 +1,14 @@
+.header{
+    display: flex-container;
+    height: 100px;
+    width: auto;
+    z-index: 5;
+    position: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif:
+    font-size: 14px;
+    font-weight: bold;
+}
+.header.nave {
+    display: inline-block;
+    
+}
