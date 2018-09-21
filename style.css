@@ -1,5 +1,6 @@
 .header{
     display: flex-container;
+    border: 2px black;
     height: 100px;
     width: auto;
     z-index: 5;
