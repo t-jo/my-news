@@ -2,6 +2,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
+    grid-template: 1 / repeat(10, 1fr);
     border: 2px black;
     height: 100px;
     width: auto;
@@ -15,6 +16,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
+    
     margin: 10px;
     padding: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
