@@ -25,6 +25,7 @@
     color: black;  
 }
 .header.nav > div {
+    grid-area: 1 / 4 / 1 / 8;
     margin: 10px;
     padding: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
