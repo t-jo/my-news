@@ -7,13 +7,15 @@
     margin: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;   font-size: 14px;
     font-weight: bold;
-    color: black;
+    color: aquamarine;
 }
 .nav {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    align-self: flex-end;
+    
     width: 100px;
     margin: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
