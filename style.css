@@ -7,7 +7,7 @@
     font-weight: bold;
     color: black;
 }
-.header .nav {
+.nav {
     display: flex;
     flex-direction: row;
     align-items: center;
